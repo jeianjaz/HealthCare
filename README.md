@@ -45,7 +45,7 @@ Key highlights include:
 ---
 
 ## Learning
-This project offers an excellent opportunity to deepen your frontend development skills, including:
+This project offers an excellent opportunity to deepen my frontend development skills, including:
 - **Advanced React Techniques**: Master component design, hooks, and context API for efficient state management.
 - **TypeScript in the Frontend**: Learn how strong typing can improve code reliability and maintainability.
 - **Tailwind CSS & DaisyUI**: Explore utility-first styling and customizable UI components for rapid, responsive design.
